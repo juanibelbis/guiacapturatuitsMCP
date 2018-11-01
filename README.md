@@ -1,4 +1,14 @@
-## Welcome to GitHub Pages
+## Bienvenido a la guía de análisis de tuits como piezas de contenido
+
+_Hipermedia y estrategia de social media
+Maestría en Comunicación Política / Maestría en Gestión de Contenidos
+Escuela en Posgrados en Comunicación Política
+Universidad Austral
+Argentina_
+
+**Juan Ignacio Belbis**
+
+
 
 You can use the [editor on GitHub](https://github.com/juanibelbis/guiacapturatuitsMCP/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
