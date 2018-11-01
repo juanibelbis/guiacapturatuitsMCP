@@ -25,6 +25,8 @@ Un proceso de análisis de contenidos debe contemplar un conjunto de etapas.
 - Se deben tomar decisiones metodológicas respecto de las herramientas a utilizar para construir el corpus, esto es determinante dado que en muchos casos la selección de la herramienta tiene implicancias directas sobre mis capacidades de análisis y trabajo posterior del corpus.
 - Se debe construir el corpus
 
+### :keyboard: Activity: Usando R
+
 
 
 You can use the [editor on GitHub](https://github.com/juanibelbis/guiacapturatuitsMCP/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
